@@ -1,0 +1,29 @@
+.box{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.img-box{
+    margin: 5px;
+    height: 300px;
+    width: 300px;
+}
+.img-box img{
+    height: 100%;
+    width: 100%;
+    /* object-fit: cover; */
+}
+
+.main{
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    /* background-color: red; */
+}
+input{
+    padding: 10px 20px;
+    
+}
